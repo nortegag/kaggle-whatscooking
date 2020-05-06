@@ -3,3 +3,5 @@ submission.csv
 submission.json
 *.ipynb
 cuisine.png
+/.vscode
+/__pycache__
